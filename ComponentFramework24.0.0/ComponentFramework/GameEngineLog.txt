@@ -1,0 +1,204 @@
+Mon Apr 21 17:01:51 2025
+[INFO]: Starting the SceneManager
+[INFO]: OpenGL version: 4.6.0 NVIDIA 566.14
+[INFO]: Graphics card vendor NVIDIA Corporation
+[INFO]: Graphics card name NVIDIA GeForce RTX 2060/PCIe/SSE2
+[INFO]: GLSL Version 4.60 NVIDIA
+[INFO]: Created Scene1: 
+[INFO]: Loading assets Scene1: 
+[ERROR]: Can't find  your component in file: C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\AssetManager.h on line: 35
+[ERROR]: Can't find  your component in file: C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\AssetManager.h on line: 35
+[ERROR]: Can't find  your component in file: C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\AssetManager.h on line: 35
+[ERROR]: Can't find  your component in file: C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\AssetManager.h on line: 35
+[ERROR]: Can't find  your component in file: C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\AssetManager.h on line: 35
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"colorID" loc:4
+"modelMatrix" loc:2
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Uniforms:
+"lightPos" loc:3
+"modelMatrix" loc:2
+"myTexture" loc:4
+"projectionMatrix" loc:0
+"viewMatrix" loc:1
+
+[INFO]: Deleting the SceneManager
+[INFO]: Deleting assets Scene1: 
+[INFO]: Deleted Scene1: 

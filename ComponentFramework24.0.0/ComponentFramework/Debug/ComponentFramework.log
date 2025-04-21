@@ -1,0 +1,31 @@
+﻿  Actor.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  AssetManager.cpp
+  Body.cpp
+  CameraActor.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Debug.cpp
+  MaterialComponent.cpp
+  MeshComponent.cpp
+C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\tiny_obj_loader.h(1665,27): warning C4018: '<': signed/unsigned mismatch
+  Scene1.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  SceneManager.cpp
+  Main.cpp
+  Scene0.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  ShaderComponent.cpp
+  Timer.cpp
+  TransformComponent.cpp
+  This is wrong: Vec4 cross(const Vec4& a, const Vec4& b)
+  This questionable: Vec4 inverse(const Vec4& v)
+  Window.cpp
+  Generating Code...
+C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\ComponentFramework\Scene1.cpp(198): warning C4715: 'Scene1::Pick': not all control paths return a value
+  ComponentFramework.vcxproj -> C:\Users\brett\Downloads\ComponentFramework24.0.0\ComponentFramework24.0.0\Debug\ComponentFramework.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
